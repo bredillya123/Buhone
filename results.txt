@@ -1,0 +1,2 @@
+1 lesson = 150 min;
+Anna's site = 10 lessons;
